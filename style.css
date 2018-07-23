@@ -1,0 +1,44 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+div {
+    padding: 5% 10%;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+hr {
+    margin-bottom: 10px;
+    width: 100%;
+}
+h1 {
+    color:blue;
+    text-align: center; 
+    text-transform: uppercase;
+    
+}
+h2 {
+    color: red; 
+    text-align: center;
+    font-size: 92%;
+    font-weight: 100;
+    text-transform: uppercase;
+    padding-bottom: 20px;
+}
+
+p {
+    padding-bottom: 20px;
+}
+li {
+    margin-left: 20px;
+}
+
+img {
+    padding-top: 10px;
+    width: 70%;
+    margin: 0 15%;
+}
